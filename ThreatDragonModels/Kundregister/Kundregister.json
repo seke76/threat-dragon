@@ -1,0 +1,16 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Kundregister",
+    "owner": "Stefan Eklund",
+    "description": "Uppgift",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "John Eklund",
+    "threatTop": 0
+  }
+}
